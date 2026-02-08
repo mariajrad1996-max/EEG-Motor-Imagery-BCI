@@ -21,4 +21,5 @@ See `requirements.txt`
 ## How to run
 ```bash
 pip install -r requirements.txt
-python main.py
+python eeg_motor_imagery_csp_lda.py
+
